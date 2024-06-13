@@ -78,3 +78,4 @@ Layout
 * Drip Pans
 * Begin fueling
 * Aviation crew should tell you when to stop, they go on weight, not gallons
+  * One person at pump, one person fueling, one person watching pilot
